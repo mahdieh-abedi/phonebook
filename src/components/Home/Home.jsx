@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Container } from "react-bootstrap";
-import { FavoriteList, SortList } from "..";
+import { FavoriteList, SortList } from "../components";
 import { ThemeContext } from "../Context/ThemeContext";
 import { ContainerStyle, DividerStyle } from "../MyStyles/myStyles";
 const Home = ({ sortDataByFirstName }) => {

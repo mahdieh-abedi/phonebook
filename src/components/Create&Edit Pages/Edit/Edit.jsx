@@ -4,7 +4,7 @@ import { Link, useParams, useNavigate } from "react-router-dom";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import ModeEditIcon from "@mui/icons-material/ModeEdit";
 import ArrowBackIosNewIcon from "@mui/icons-material/ArrowBackIosNew";
-import { PersonContext, NewPersonContext } from "../..";
+import { PersonContext, NewPersonContext } from "../../components";
 import { ThemeContext } from "../../Context/ThemeContext";
 import { ContainerStyle, IconStyle} from "../../MyStyles/myStyles";
 
