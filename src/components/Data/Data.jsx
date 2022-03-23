@@ -7,7 +7,7 @@ const Data = [
     email: "mahdieh.abed@gmail.com",
     category: "Family",
     favorite:true,
-    image:"https://i.pinimg.com/564x/55/10/99/5510991833381ccddba886095a9f8e0f.jpg"
+    image:""
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const Data = [
     email: "mahsa.abedi@gmail.com",
     category: "Work",
     favorite:false,
-    image:"https://i.pinimg.com/564x/87/ef/af/87efaf2d645b47881326faa8a238aaea.jpg"
+    image:""
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const Data = [
     email: "mohammad.abedi@gmail.com",
     category: "Family",
     favorite:false,
-    image:"https://i.pinimg.com/564x/a5/70/3e/a5703ea8ff2210d22ed4b21008c60267.jpg"
+    image:""
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const Data = [
     email: "maryam.abedi@gmail.com",
     category: "Family",
     favorite:false,
-    image:"https://i.pinimg.com/564x/4c/f3/79/4cf379eb39ef955bb3e2df4be81f4503.jpg"
+    image:""
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const Data = [
     email: "roohangiz.fathali@gmail.com",
     category: "Family",
     favorite:false,
-    image:"https://i.pinimg.com/564x/6e/01/e3/6e01e3f6462a5b1fe0c8367b9234bee5.jpg"
+    image:""
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const Data = [
     email: "babak.emkani@gmail.com",
     category: "Friend",
     favorite:true,
-    image:"https://i.pinimg.com/564x/d3/3a/2d/d33a2d1b538f71b19af66d2276aa10e1.jpg"
+    image:""
   },
 ];
 
