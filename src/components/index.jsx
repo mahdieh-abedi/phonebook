@@ -4,7 +4,7 @@ import Home from "./Home/Home";
 import Profile from "./PersonProfile/PersonProfile";
 import Search from "./Home/Search/Search";
 import Setting from "./Setting/Setting";
-import Data from "../components/Data/Data";
+import Data from "./Data/Data";
 import FavoriteList from "./Home/FavoriteList/FavoriteList";
 import SortList from "./Home/SortList/SortList";
 import Header from "./Header/Header";
@@ -17,7 +17,7 @@ import NewPersonContextProvider, {
   NewPersonContext,
 } from "./Context/NewPersonContext";
 import FilterProvider, { Filter } from "./Context/FilterContext";
-import Reducer from "../components/Reducer/Reducer";
+import Reducer from "./Reducer/Reducer";
 
 export {
   Create,
