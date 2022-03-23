@@ -9,7 +9,7 @@ import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import StarIcon from "@mui/icons-material/Star";
 import StarBorderIcon from "@mui/icons-material/StarBorder";
-import { PersonContext } from "../components";
+import { PersonContext } from "..";
 import { ThemeContext } from "../Context/ThemeContext";
 import { IconStyle,ContainerStyle,FontStyle,FavoriteIconStyle} from "../MyStyles/myStyles";
 const PersonProfile = () => {
